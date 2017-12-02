@@ -1,1 +1,10 @@
 
+
+{
+  "posts": [
+    { "id": 1, "name": "Karl" ,"skill":"C#","level":"low"},
+    { "id": 2, "name": "Carolyn","skill":"writing","level":"high" },
+    { "id": 3, "name": "Daniel","skill":"bitcoin","level":"pro" },
+    { "id":4 , "name": "Cha","skill":"Angular","level":"master"}
+  ]
+}
